@@ -2,7 +2,7 @@ anychart.onDocumentReady(function() {
     palette = [ "#70e336", "#d95050"]
     var data = [
         {x: "Present", value: 70},
-        {x: "Bunked", value: 30},
+        {x: "Absent", value: 30},
     ];
   
     var chart = anychart.pie();
